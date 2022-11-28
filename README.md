@@ -28,8 +28,6 @@ The GAN that generates Mario levels can be run by the following command in the G
 python3 GANTraining.py --cuda
 ```
 
-Pretrained model can be downloaded from *[MarioGAN-LSI-pretrained-model](https://github.com/icaros-usc/MarioGAN-LSI/blob/master/GANTrain/samples/netG_epoch_4999_7684.pth)* in the repo.
-
 ### Running LSI Experiments
 Experiments can be run with the command:
 ```
