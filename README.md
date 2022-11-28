@@ -1,6 +1,6 @@
-#VGL-GAN
+# VGL-GAN
+## Video Game Level Generation using Deep Convolutional Generative Adversarial Network
 -----
-Video Game Level Generation using Deep Convolutional Generative Adversarial Network
 
 The project is derived from the *[/MarioGAN-LSI](https://github.com/icaros-usc/MarioGAN-LSI)* project. and *[Mario-AI-Framework](https://github.com/amidos2006/Mario-AI-Framework)* 
 
